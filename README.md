@@ -4,4 +4,5 @@
 ### Total viewers :alien:
 ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg)
 
+<a href="https://www.linkedin.com/in/pedro-moura-48a29819a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="120px"/></a>
 ## </p> Working in progress :hammer::warning:
