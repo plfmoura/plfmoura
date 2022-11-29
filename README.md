@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/pedro-moura-48a29819a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="120px"/></a>
 
 <div>
-  <a href="https://github.com/vitielloL"/>
+  <a href="https://github.com/plfmoura"/>
   <!-- <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
