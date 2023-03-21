@@ -5,7 +5,7 @@
 ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg)<br/>
   ###### (Este contador só renderiza apenas a primeira visita de usuários que nunca passaram por aqui.) 💝
 
-   Você pode me encontrar também no 👉  <a href="https://www.linkedin.com/in/pedro-moura-48a29819a/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40px"/></a>
+   Você pode me encontrar também no 👉  <a href="https://www.linkedin.com/in/pedro-lucas-moura/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40px"/></a>
 
 </div>
 
