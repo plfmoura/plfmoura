@@ -31,7 +31,7 @@
   
 ### Estou trabalhando nestes projetos atualmente. 🟢
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=app-match&&theme=github_dark)](https://github.com/plfmoura/app-match)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=api_match&&theme=github_dark)](https://github.com/Juanpi92/api_match)
 </div>
 
