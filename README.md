@@ -12,11 +12,15 @@
   
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="135px"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="200px"></a>
+
+  
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150px"></a>
   
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -29,7 +33,7 @@
 </div>
 <div align="center">
   
-### Estou trabalhando nestes projetos atualmente. 🟡
+### Estou trabalhando nestes projetos pessoais atualmente. 🟡
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=api_match&&theme=github_dark)](https://github.com/Juanpi92/api_match)
