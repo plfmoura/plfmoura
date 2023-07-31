@@ -8,7 +8,7 @@
 
 <div style="display: inline_block" align="center">
   
-### Tecnologias que estou me especializando
+### Tecnologias que estou me especializando:
   
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="135px"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="200px"></a>
