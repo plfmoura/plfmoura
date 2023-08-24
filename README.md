@@ -1,14 +1,14 @@
 <div align="center">
-<h1>Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">boas vindas ao meu perfil!</h1>
+<h1>Greetings, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">welcome to my profile!</h1>
 
-  ### :alien: Total de visualizadores únicos :alien: 
+  ### :alien: Total unique viewers :alien: 
   ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg) <br/>
 <br/>
 </div>
 
 <div style="display: inline_block" align="center">
   
-### Tecnologias que estou me especializando:
+### Technologies I'm specializing:
   
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="135px"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="200px"></a>
@@ -26,14 +26,14 @@
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
-  ###### (Este contador renderiza a quantidade de visitas totais neste perfil, a partir de 03/2023) 🔥<br/>
+  ###### This counter renders the amount of total visits in this profile, from 03/2023) 🔥<br/>
 
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
   
 </div>
 <div align="center">
   
-### Estou trabalhando nestes projetos pessoais atualmente. 🟡
+### In addition to my two jobs, I'm currently working on these personal projects. 🟡
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=unimatch-app&&theme=github_dark)](https://github.com/plfmoura/unimatch-app)
@@ -42,7 +42,7 @@
 
 <div align="center">
   
-### Minhas estatísticas de usuário no GitHub. 🟢
+### My User Stats on GitHub. 🟢
   
   <a href="https://github.com/plfmoura"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
