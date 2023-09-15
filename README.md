@@ -29,6 +29,8 @@
   ###### This counter renders the amount of total visits in this profile, from 03/2023) 🔥<br/>
 
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
+    
+### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 below Github stats. 👍
   
 </div>
 <div align="center">
