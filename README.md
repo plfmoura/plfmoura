@@ -1,6 +1,9 @@
 <div align="center">
 <h1>Greetings, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">welcome to my profile!</h1>
 
+### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 below Github stats. 👍
+
+
   ### :alien: Total unique viewers :alien: 
   ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg) <br/>
 <br/>
@@ -29,9 +32,7 @@
   ###### This counter renders the amount of total visits in this profile, from 03/2023) 🔥<br/>
 
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
-    
-### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 below Github stats. 👍
-  
+      
 </div>
 <div align="center">
   
