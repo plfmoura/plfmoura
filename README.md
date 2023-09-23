@@ -43,8 +43,8 @@
 ### In addition to my professional career, I am currently working on these personal projects. 🟡
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=Vegetanizando&&theme=github_dark)](https://github.com/Juanpi92/Vegetanizando)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=galileu-nextjs&&theme=github_dark)](https://github.com/plfmoura/galileu-nextjs)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
 </div>
 
 <div align="center">
