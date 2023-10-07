@@ -54,6 +54,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura&layout=compact&langs_count=16&theme=github_dark"/>
   
-[![An image of @plfmoura's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plfmoura)](https://holopin.io/@plfmoura)
 </div>
 
