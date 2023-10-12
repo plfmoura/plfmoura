@@ -1,7 +1,5 @@
-# Table of Contents
-- [Introduction](#introduction)
-- [stats](#stats)
-- [Usage](#usage)
+
+- [Introduction](#introduction) - [stats](#stats) - [Usage](#usage)
 
 <div align="center">
 
