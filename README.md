@@ -1,4 +1,10 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [stats](#stats)
+- [Usage](#usage)
+
 <div align="center">
+
 <h1>Greetings, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">welcome to my profile!</h1>
 
 ### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 below Github stats. 👍
@@ -37,7 +43,7 @@
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
       
 </div>
-<div align="center">
+<div align="center" id="introduction">
   
 ### In addition to my professional career, I am currently working on these personal projects. 🟡
 
@@ -46,7 +52,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
 </div>
 
-<div align="center">
+<section align="center" id="stats">
   
 ### My User Stats on GitHub. 🟢
   
@@ -54,10 +60,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plfmoura&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plfmoura&layout=compact&langs_count=16&theme=github_dark"/>
   
-</div>
+</section>
 <div align="center">
+  
+### My Holopin Badges. 🟢
   
 [![An image of @plfmoura's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plfmoura)](https://holopin.io/@plfmoura)
 
 </div>
+
+## Introduction
+This is the introduction to my project.
+
+## Installation
+Instructions on how to install the project.
+
+## Usage
+Information about how to use the project.
+
 
