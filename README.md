@@ -5,7 +5,7 @@
    
  ## > | [🤖 About](#introduction) |    [📄 Projects](#projects) |    [🏆 Stats](#stats) |    [🏅 Badges](#badges) | <
  
-##### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 below Github stats. 👍
+##### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 BELOW HOLOPIN BADGES. 👍
  </div>
 
 <div align="center" id="introduction">
