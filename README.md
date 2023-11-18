@@ -7,7 +7,7 @@
  
 #### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 BELOW HOLOPIN BADGES. 👍
 
-#### Do you know my work and would you like to leave me a recommendation on Linkedin?  <a href="https://www.linkedin.com/in/pedro-lucas-moura/edit/forms/recommendation/write/?profileFormEntryPoint=PROFILE_SECTION&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC6sCaoBSiDFmEpODA4WlnuLhdWJbB5QOck&trackingId=PB3NS0iRSRGJgiMBHOqs6A%3D%3D" target="blank">click here to go to Linkedin</a> 🚀😎
+#### Do you know my work and would you like to leave me a recommendation on Linkedin?  <a href="https://www.linkedin.com/in/pedro-lucas-moura/edit/forms/recommendation/write/?profileFormEntryPoint=PROFILE_SECTION&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC6sCaoBSiDFmEpODA4WlnuLhdWJbB5QOck&trackingId=PB3NS0iRSRGJgiMBHOqs6A%3D%3D" target="blank">Pedro Linkedin Profile</a> 🚀😎
  </div>
 
 <div align="center" id="introduction">
