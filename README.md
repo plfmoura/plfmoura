@@ -20,8 +20,10 @@
 
 <div style="display: inline_block" align="center">
   
-### Technologies I'm specializing:
-  
+ <details title="Technologies I'm specializing">
+   <summary align="left"><strong>Technologies I'm specializing</strong> 🚀</summary>
+
+   <br/>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130px"></a>
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="42px"></a>
   <a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="42px"></a>
@@ -41,7 +43,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  
+
+</details>
+
   ###### This counter renders the amount of total visits in this profile, from 03/2023) 🔥<br/>
 
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
@@ -49,12 +53,16 @@
 </div>
 <div align="center" id="projects">
   
-### In addition to my professional career, I am currently working on these personal projects. 🟡
+### 
+<details title="personal projects">
+   <summary align="left"><strong>In addition to my professional career, I am currently working on these personal projects. </strong> 🟡</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=Vegetanizando&&theme=github_dark)](https://github.com/Juanpi92/Vegetanizando)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=galileu-nextjs&&theme=github_dark)](https://github.com/plfmoura/galileu-nextjs)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
 </div>
+
+</details>
 
 <div align="center" id="stats">
   
