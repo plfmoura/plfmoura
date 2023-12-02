@@ -21,7 +21,7 @@
 <div style="display: inline_block" align="center">
   
  <details title="Technologies I'm specializing">
-   <summary align="left"><strong>Technologies I'm specializing</strong> 🚀</summary>
+   <summary align="left"><strong>👈Technologies I'm specializing</strong> 🚀</summary>
 
    <br/>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130px"></a>
@@ -55,7 +55,7 @@
   
 ### 
 <details title="personal projects">
-   <summary align="left"><strong>In addition to my professional career, I am currently working on these personal projects. </strong> 🟡</summary>
+   <summary align="left"><strong>👈In addition to my professional career, I am currently working on these personal projects. </strong> 🟡</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=Vegetanizando&&theme=github_dark)](https://github.com/Juanpi92/Vegetanizando)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=galileu-nextjs&&theme=github_dark)](https://github.com/plfmoura/galileu-nextjs)
