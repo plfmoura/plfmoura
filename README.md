@@ -13,7 +13,7 @@
 <div align="center" id="introduction">
 
 
-  ### :alien: Total unique viewers :alien: 
+  ### 👽 Total unique viewers 👽 
   ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg) <br/>
 <br/>
 </div>
