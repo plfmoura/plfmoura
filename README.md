@@ -3,9 +3,12 @@
 
    <h1>Greetings, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">welcome to my profile!</h1>
    
- ## > | [🤖 About](#introduction) |    [📄 Projects](#projects) |    [🏆 Stats](#stats) |    [🏅 Badges](#badges) | <
+ ## > | [🤖 About](#introduction) |   [🏆 Stats](#stats) |    [🏅 Badges](#badges) | <
  
 #### To check my Portfolio done projects. Go to 👉 PINNED SECTION 👈 BELOW HOLOPIN BADGES. 👍
+
+### My business profile at Baymetrics: <a href="https://github.com/plfmoura-bay">@plfmoura-bay</a> 🐙
+
 
 #### Do you know my work and would you like to leave me a recommendation on Linkedin?  <a href="https://www.linkedin.com/in/pedro-lucas-moura/edit/forms/recommendation/write/?profileFormEntryPoint=PROFILE_SECTION&profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC6sCaoBSiDFmEpODA4WlnuLhdWJbB5QOck&trackingId=PB3NS0iRSRGJgiMBHOqs6A%3D%3D" target="blank">Pedro Linkedin Profile</a> 🚀😎
  </div>
@@ -51,18 +54,6 @@
   <img alingn="center" src="https://profile-counter.glitch.me/plfmoura/count.svg" /></br>
       
 </div>
-<div align="center" id="projects">
-  
-### 
-<details title="personal projects">
-   <summary align="left"><strong>👈In addition to my professional career, I am currently working on these personal projects. </strong> 🟡</summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanpi92&repo=Vegetanizando&&theme=github_dark)](https://github.com/Juanpi92/Vegetanizando)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=galileu-nextjs&&theme=github_dark)](https://github.com/plfmoura/galileu-nextjs)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plfmoura&repo=UniMatch&&theme=github_dark)](https://github.com/plfmoura/UniMatch)
-</div>
-
-</details>
 
 <div align="center" id="stats">
   
