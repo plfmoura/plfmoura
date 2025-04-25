@@ -16,12 +16,6 @@
 
 <div align="center" id="introduction">
 
-
-  ### 👽 Total unique viewers 👽 
-  ![Image of https://github.com/plfmoura/profile-view-counter](https://github.com/plfmoura/profile-view-counter/blob/master/svg/profile/badge.svg) <br/>
-<br/>
-</div>
-
 <div style="display: inline_block" align="center">
   
  <details title="Technologies I'm specializing">
